@@ -1,0 +1,33 @@
+html {background-color:##ffffea;
+        color: black;}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  border-radius:10px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;}
+
+h1, h2, h3 {text-align:center;
+font-family: copperplate, serif;}
+h1{font-family: copperplate, serif;}
+
+#contentlist {list-style: none;
+text-align:left;}
+#dedication {text-align: center;}
+
+p {text-indent: 35px;}
+
+.buddy {color: #52b84d;}
+.love {color: #ff80dd;}
+.bff {color:#924be2;}
+.trouble {color: #bc1f27;}
+.neighbor{color:#623119 ;}
+.friend{color: #26aae2;}
